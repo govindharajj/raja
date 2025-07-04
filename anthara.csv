@@ -1,0 +1,98 @@
+routename,seat,bustypes,busnames,routetimes,starratings,tickets,reaching, duration,STATE
+Hyderabad to Vijayawada,22 Seats available,Electric A/C Seater (2+2),FRESHBUS,12:50,4.7,"Starts from
+INR 349 249",19:30,06h 40m,anthara
+Hyderabad to Vijayawada,23 Seats available,Electric A/C Seater (2+2),FRESHBUS,12:50,4.7,"Starts from
+INR 349 249",19:30,06h 40m,anthara
+Hyderabad to Vijayawada,16 Seats available,Electric A/C Seater (2+2),FRESHBUS,12:50,4.7,"Starts from
+INR 349 249",19:30,06h 40m,anthara
+Hyderabad to Vijayawada,,Electric A/C Seater (2+2),FRESHBUS,12:50,4.7,"Starts from
+INR 349 249",19:30,06h 40m,anthara
+Hyderabad to Vijayawada,,Electric A/C Seater (2+2),FRESHBUS,12:50,4.7,"Starts from
+INR 349 249",19:30,06h 40m,anthara
+Vijayawada to Hyderabad,18 Seats available,A/C Seater / Sleeper (2+1),IntrCity SmartBus,22:45,4.6,"Starts from
+INR 349",05:40,06h 55m,anthara
+Vijayawada to Hyderabad,18 Seats available,A/C Seater / Sleeper (2+1),IntrCity SmartBus,22:45,4.6,"Starts from
+INR 349",05:40,06h 55m,anthara
+Vijayawada to Hyderabad,17 Seats available,A/C Seater / Sleeper (2+1),IntrCity SmartBus,22:45,4.6,"Starts from
+INR 349",05:40,06h 55m,anthara
+Vijayawada to Hyderabad,,A/C Seater / Sleeper (2+1),IntrCity SmartBus,22:45,4.6,"Starts from
+INR 349",05:40,06h 55m,anthara
+Vijayawada to Hyderabad,,A/C Seater / Sleeper (2+1),IntrCity SmartBus,22:45,4.6,"Starts from
+INR 349",05:40,06h 55m,anthara
+Bangalore to Tirupati,2 Seats available,Electric A/C Seater (2+2),FRESHBUS,09:05,4.5,INR 349 249,14:30,05h 25m,anthara
+Bangalore to Tirupati,8 Seats available,Electric A/C Seater (2+2),FRESHBUS,09:05,4.5,INR 349 249,14:30,05h 25m,anthara
+Bangalore to Tirupati,2 Seats available,Electric A/C Seater (2+2),FRESHBUS,09:05,4.5,INR 349 249,14:30,05h 25m,anthara
+Bangalore to Tirupati,,Electric A/C Seater (2+2),FRESHBUS,09:05,4.5,INR 349 249,14:30,05h 25m,anthara
+Bangalore to Tirupati,,Electric A/C Seater (2+2),FRESHBUS,09:05,4.5,INR 349 249,14:30,05h 25m,anthara
+Bangalore to Kadapa,23 Seats available,Non A/C Seater / Sleeper (2+1),Shiva Parvathi Tours And Travels,19:00,4.3,"Starts from
+INR 800",02:30,07h 30m,anthara
+Bangalore to Kadapa,20 Seats available,Non A/C Seater / Sleeper (2+1),Shiva Parvathi Tours And Travels,19:00,4.3,"Starts from
+INR 800",02:30,07h 30m,anthara
+Bangalore to Kadapa,19 Seats available,Non A/C Seater / Sleeper (2+1),Shiva Parvathi Tours And Travels,19:00,4.3,"Starts from
+INR 800",02:30,07h 30m,anthara
+Bangalore to Kadapa,28 Seats available,Non A/C Seater / Sleeper (2+1),Shiva Parvathi Tours And Travels,19:00,4.3,"Starts from
+INR 800",02:30,07h 30m,anthara
+Bangalore to Kadapa,,Non A/C Seater / Sleeper (2+1),Shiva Parvathi Tours And Travels,19:00,4.3,"Starts from
+INR 800",02:30,07h 30m,anthara
+Kakinada to Visakhapatnam,35 Seats available,Non A/C Seater / Sleeper (2+1),SRI VIJAYA KRISHNA TOURS and TRAVELS,23:59,na,"Starts from
+INR 499",04:30,04h 31m,anthara
+Hyderabad to Ongole,19 Seats available,A/C Seater / Sleeper (2+1),Sri Vengamamba Bus Transport (SVBT),21:45,4.4,"Starts from
+INR 672",06:15,08h 30m,anthara
+Hyderabad to Ongole,33 Seats available,A/C Seater / Sleeper (2+1),Sri Vengamamba Bus Transport (SVBT),21:45,4.4,"Starts from
+INR 672",06:15,08h 30m,anthara
+Hyderabad to Ongole,27 Seats available,A/C Seater / Sleeper (2+1),Sri Vengamamba Bus Transport (SVBT),21:45,4.4,"Starts from
+INR 672",06:15,08h 30m,anthara
+Hyderabad to Ongole,,A/C Seater / Sleeper (2+1),Sri Vengamamba Bus Transport (SVBT),21:45,4.4,"Starts from
+INR 672",06:15,08h 30m,anthara
+Hyderabad to Ongole,,A/C Seater / Sleeper (2+1),Sri Vengamamba Bus Transport (SVBT),21:45,4.4,"Starts from
+INR 672",06:15,08h 30m,anthara
+Ongole to Hyderabad,34 Seats available,A/C Seater / Sleeper (2+1),Vikram Travels,23:15,4.6,"Starts from
+INR 499",06:18,07h 03m,anthara
+Ongole to Hyderabad,14 Seats available,A/C Seater / Sleeper (2+1),Vikram Travels,23:15,4.6,"Starts from
+INR 499",06:18,07h 03m,anthara
+Ongole to Hyderabad,22 Seats available,A/C Seater / Sleeper (2+1),Vikram Travels,23:15,4.6,"Starts from
+INR 499",06:18,07h 03m,anthara
+Ongole to Hyderabad,,A/C Seater / Sleeper (2+1),Vikram Travels,23:15,4.6,"Starts from
+INR 499",06:18,07h 03m,anthara
+Ongole to Hyderabad,,A/C Seater / Sleeper (2+1),Vikram Travels,23:15,4.6,"Starts from
+INR 499",06:18,07h 03m,anthara
+Bangalore to Anantapur (andhra pradesh),25 Seats available,A/C Seater / Sleeper (2+1),IntrCity SmartBus,18:50,4.7,"Starts from
+INR 949",22:45,03h 55m,anthara
+Bangalore to Anantapur (andhra pradesh),24 Seats available,A/C Seater / Sleeper (2+1),IntrCity SmartBus,18:50,4.7,"Starts from
+INR 949",22:45,03h 55m,anthara
+Bangalore to Anantapur (andhra pradesh),24 Seats available,A/C Seater / Sleeper (2+1),IntrCity SmartBus,18:50,4.7,"Starts from
+INR 949",22:45,03h 55m,anthara
+Bangalore to Anantapur (andhra pradesh),,A/C Seater / Sleeper (2+1),IntrCity SmartBus,18:50,4.7,"Starts from
+INR 949",22:45,03h 55m,anthara
+Bangalore to Anantapur (andhra pradesh),,A/C Seater / Sleeper (2+1),IntrCity SmartBus,18:50,4.7,"Starts from
+INR 949",22:45,03h 55m,anthara
+Bangalore to Chittoor (Andhra Pradesh),1 Seat available,Electric A/C Seater (2+2),FRESHBUS,09:20,4.2,INR 349 249,13:00,03h 40m,anthara
+Bangalore to Chittoor (Andhra Pradesh),8 Seats available,Electric A/C Seater (2+2),FRESHBUS,09:20,4.2,INR 349 249,13:00,03h 40m,anthara
+Bangalore to Chittoor (Andhra Pradesh),5 Seats available,Electric A/C Seater (2+2),FRESHBUS,09:20,4.2,INR 349 249,13:00,03h 40m,anthara
+Bangalore to Chittoor (Andhra Pradesh),14 Seats available,Electric A/C Seater (2+2),FRESHBUS,09:20,4.2,INR 349 249,13:00,03h 40m,anthara
+Bangalore to Chittoor (Andhra Pradesh),,Electric A/C Seater (2+2),FRESHBUS,09:20,4.2,INR 349 249,13:00,03h 40m,anthara
+Bangalore to Chittoor (Andhra Pradesh),,Electric A/C Seater (2+2),FRESHBUS,09:20,4.2,INR 349 249,13:00,03h 40m,anthara
+Bangalore to Chittoor (Andhra Pradesh),,Electric A/C Seater (2+2),FRESHBUS,09:20,4.2,INR 349 249,13:00,03h 40m,anthara
+Bangalore to Chittoor (Andhra Pradesh),,Electric A/C Seater (2+2),FRESHBUS,09:20,4.2,INR 349 249,13:00,03h 40m,anthara
+Bangalore to Chittoor (Andhra Pradesh),,Electric A/C Seater (2+2),FRESHBUS,09:20,4.2,INR 349 249,13:00,03h 40m,anthara
+Bangalore to Chittoor (Andhra Pradesh),,Electric A/C Seater (2+2),FRESHBUS,09:20,4.2,INR 349 249,13:00,03h 40m,anthara
+Chittoor (Andhra Pradesh) to Bangalore,21 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),Yolo Bus,09:22,4.3,"Starts from
+INR 250 125",13:59,04h 37m,anthara
+Chittoor (Andhra Pradesh) to Bangalore,15 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),Yolo Bus,09:22,4.3,"Starts from
+INR 250 125",13:59,04h 37m,anthara
+Chittoor (Andhra Pradesh) to Bangalore,20 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),Yolo Bus,09:22,4.3,"Starts from
+INR 250 125",13:59,04h 37m,anthara
+Chittoor (Andhra Pradesh) to Bangalore,58 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),Yolo Bus,09:22,4.3,"Starts from
+INR 250 125",13:59,04h 37m,anthara
+Chittoor (Andhra Pradesh) to Bangalore,,Bharat Benz A/C Seater /Sleeper (2+1),Yolo Bus,09:22,4.3,"Starts from
+INR 250 125",13:59,04h 37m,anthara
+Chittoor (Andhra Pradesh) to Bangalore,,Bharat Benz A/C Seater /Sleeper (2+1),Yolo Bus,09:22,4.3,"Starts from
+INR 250 125",13:59,04h 37m,anthara
+Chittoor (Andhra Pradesh) to Bangalore,,Bharat Benz A/C Seater /Sleeper (2+1),Yolo Bus,09:22,4.3,"Starts from
+INR 250 125",13:59,04h 37m,anthara
+Chittoor (Andhra Pradesh) to Bangalore,,Bharat Benz A/C Seater /Sleeper (2+1),Yolo Bus,09:22,4.3,"Starts from
+INR 250 125",13:59,04h 37m,anthara
+Chittoor (Andhra Pradesh) to Bangalore,,Bharat Benz A/C Seater /Sleeper (2+1),Yolo Bus,09:22,4.3,"Starts from
+INR 250 125",13:59,04h 37m,anthara
+Chittoor (Andhra Pradesh) to Bangalore,,Bharat Benz A/C Seater /Sleeper (2+1),Yolo Bus,09:22,4.3,"Starts from
+INR 250 125",13:59,04h 37m,anthara
